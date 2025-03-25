@@ -1,0 +1,2 @@
+Download both boards, “Seeed nRF52 Boards” and “Seeed nRF52 mbed-enabled Boards”
+Copy the the adafruit-nrfutil from /Users/<user>/Library/Arduino15/packages/Seeeduino/hardware/mbed/2.9.2/tools/adafruit-nrfutil/macos/adafruit-nrfutil to /Users/<user>/Library/Arduino15/packages/Seeeduino/hardware/nrf52/1.1.8/tools/adafruit-nrfutil/macos/adafruit-nrfutil 
